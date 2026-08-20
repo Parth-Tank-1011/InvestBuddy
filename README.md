@@ -86,8 +86,8 @@ to generate short-term stock predictions.
 
 **Parth Tank**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Parth Tank](https://linkedin.com/in/yourprofile)
+- Email: tank.parth.101104@gmail.com
 
 ---
 
@@ -95,4 +95,4 @@ to generate short-term stock predictions.
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
-[![Stars](https://img.shields.io/github/stars/yourusername/InvestBuddy?style=social)](https://github.com/yourusername/InvestBuddy)
+[![Stars](https://img.shields.io/github/stars/Parth-Tank-1011/InvestBuddy?style=social)](https://github.com/Parth-Tank-1011/InvestBuddy)
