@@ -35,31 +35,6 @@ InvestBuddy is a modern stock market intelligence platform that helps users anal
 
 ---
 
-# ⚙️ Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/InvestBuddy.git
-
-```
-## Backend Setup
-
-```bash
-cd backend
-.\venv\Scripts\python.exe app.py
-```
-
-## Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
 # 📊 Prediction Logic
 
 InvestBuddy uses:
